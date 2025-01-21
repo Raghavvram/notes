@@ -1,5 +1,5 @@
 
-## what is para-virtualization
+## What is para-virtualization
 
 Para-virtualization is a virtualization technique that presents a software interface to virtual machines (VMs) that is slightly different from the underlying hardware. Unlike full virtualization, where the guest operating system operates without any modification, para-virtualization requires the guest OS to be modified to interact with the hypervisor (the software layer that manages VMs) more efficiently. 
 
@@ -13,7 +13,7 @@ Key points about para-virtualization:
 It's like providing a tailored suit for the OS, allowing it to work more seamlessly with the virtualized hardware.
 
 
-## compare and contrast virtualization and para-virtualization
+## Compare and contrast virtualization and para-virtualization
 
 
 | Feature             | Virtualization                         | Para-virtualization                     |
@@ -25,7 +25,7 @@ It's like providing a tailored suit for the OS, allowing it to work more seamles
 | **Complexity**      | Simpler for guest OS, more complex for hypervisor. | More complex for guest OS, simpler for hypervisor. |
 | **Use Cases**       | General-purpose virtualization, broad compatibility. | Performance-sensitive applications, specialized environments. |
 
-## where is para-virtualization used give an example
+## Where is para-virtualization used give an example
 
 Para-virtualization is commonly used in environments where performance and efficiency are crucial. One notable example is in data centers and cloud computing platforms.
 
