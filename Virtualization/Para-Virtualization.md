@@ -16,7 +16,6 @@ It's like providing a tailored suit for the OS, allowing it to work more seamles
 
 ## compare and contrast virtualization and para-virtualization
 
-Sure! Here's a table comparing virtualization and para-virtualization:
 
 | Feature             | Virtualization                         | Para-virtualization                     |
 |---------------------|----------------------------------------|-----------------------------------------|
