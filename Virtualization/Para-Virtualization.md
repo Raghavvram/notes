@@ -12,4 +12,7 @@ Key points about para-virtualization:
 
 It's like providing a tailored suit for the OS, allowing it to work more seamlessly with the virtualized hardware.
 
+---
+
+## compare and contrast virtualization and para-virtualization
 
