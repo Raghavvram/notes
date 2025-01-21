@@ -25,4 +25,6 @@ It's like providing a tailored suit for the OS, allowing it to work more seamles
 | **Complexity**      | Simpler for guest OS, more complex for hypervisor. | More complex for guest OS, simpler for hypervisor. |
 | **Use Cases**       | General-purpose virtualization, broad compatibility. | Performance-sensitive applications, specialized environments. |
 
+## where is para-virtualization used give an example
+
 
