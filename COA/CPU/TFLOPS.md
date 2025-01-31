@@ -16,6 +16,6 @@ A higher number of TFLOPS generally indicates a more powerful device
 However, other GPU specifications, such as memory speed, can also affect a device's overall performance
 
 ### Examples of TFLOPS in different devices 
-The Xbox Series X has 12 TFLOPS of GPU power
-The Sony PlayStation 5 has 10.28 TFLOPS
-The Nvidia RTX 4090 has 82 TFLOPS
+- The Xbox Series X has 12 TFLOPS of GPU power
+- The Sony PlayStation 5 has 10.28 TFLOPS
+- The Nvidia RTX 4090 has 82 TFLOPS
