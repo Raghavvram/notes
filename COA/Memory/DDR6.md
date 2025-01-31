@@ -18,4 +18,4 @@
 
 - More memory banks: DDR6 may have 64 memory banks per module, which is double the number of DDR4.
 
-DDR6 is expected to replace DDR5 memory over the next few years. It may become the standard memory for high-performance computers and servers.
+**DDR6 is expected to replace DDR5 memory over the next few years. It may become the standard memory for high-performance computers and servers.**
