@@ -10,6 +10,6 @@ It holds essential firmware and drivers that are crucial for the system to initi
 
 In Alpine Linux, the "modloop" file is a critical component for creating a compact, customizable boot environment where the necessary drivers are loaded based on the target hardware. 
 
-How it works:
+#### How it works:
 
 When booting, the system mounts the "modloop" file and accesses the contained drivers and firmware, allowing the system to properly recognize and interact with the hardware. 
