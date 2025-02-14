@@ -36,4 +36,4 @@ KVM (Kernel-based Virtual Machine) is a virtualization technology built into the
 ### Time Complexity:
 When managing VMs with KVM, the time complexity for creating and managing VMs depends on factors like the number of VMs, the complexity of tasks performed within each VM, and the efficiency of the underlying hardware.
 
-In summary, KVM is a powerful virtualization technology that allows you to run multiple isolated VMs on a single physical machine, leveraging the performance benefits of hardware virtualization and the flexibility of open-source software. It's widely used in various applications, from cloud 
+In summary, KVM is a powerful virtualization technology that allows you to run multiple isolated VMs on a single physical machine, leveraging the  
