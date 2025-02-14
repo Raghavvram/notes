@@ -95,4 +95,4 @@ Intel VT-x and AMD-V are hardware virtualization extensions that provide support
 
 - **Type 2 Hypervisors (e.g., VirtualBox, VMware Workstation)**: These hypervisors run on various host operating systems (Windows, macOS, Linux) and provide user-friendly GUIs for VM management. They are suitable for personal use, development, testing, and training. Performance depends on the host OS and hardware capabilities. Some Type 2 hypervisors are commercial, but they often have free options for non-commercial use.
 
-I hope this table helps you understand the differences between KVM and other Type 2 hypervisors! If you have any further questions or need more details, feel free to ask.
+I hope this table helps you understand the differences between KVM and other Type 2 hypervisors! If you have any further questions or need more 
