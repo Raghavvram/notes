@@ -35,8 +35,6 @@ KVM (Kernel-based Virtual Machine) is a virtualization technology built into the
 
 ---
 
-Sure! Let's break down how KVM (Kernel-based Virtual Machine) works and how it interacts with Intel VT-x and AMD-V virtualization technologies:
-
 ### How KVM Works
 
 1. **Kernel Module**: KVM is implemented as a kernel module in the Linux kernel. When loaded, it turns the Linux kernel into a hypervisor, which is responsible for managing virtual machines (VMs).
