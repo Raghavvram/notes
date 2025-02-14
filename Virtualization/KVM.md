@@ -71,5 +71,5 @@ Intel VT-x and AMD-V are hardware virtualization extensions that provide support
 
 ### Summary
 
-KVM leverages Intel VT-x and AMD-V hardware virtualization extensions to create and manage VMs efficiently. By running in kernel mode, KVM has full control over the hardware and can handle system-level operations securely and efficiently. VMs run in non-root mode, ensuring isolation and performance. This setup allows for efficient virtualization with minimal overhead, making it ideal for various applications, from cloud computing to development and testing environments.
+KVM leverages Intel VT-x and AMD-V hardware virtualization extensions to create and manage VMs efficiently. By running in kernel mode, KVM has full control over the hardware and can handle system-level operations securely and efficiently. VMs run in non-root mode, ensuring isolation and performance. This setup allows for efficient virtualization with minimal overhead, making it ideal for various applications, from cloud computing 
 
