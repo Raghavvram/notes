@@ -33,6 +33,3 @@ KVM (Kernel-based Virtual Machine) is a virtualization technology built into the
 - **Scalability**: You can run multiple VMs on a single host and easily scale up or down based on resource availability.
 - **Security**: KVM provides strong isolation between VMs, enhancing security.
 
-### Time Complexity:
- 
-  
