@@ -93,5 +93,5 @@ Intel VT-x and AMD-V are hardware virtualization extensions that provide support
 
 - **KVM (Kernel-based Virtual Machine)**: A Type 2 hypervisor that runs on top of a Linux host OS. It provides near-native performance by leveraging hardware virtualization and integrates well with Linux tools and services. KVM is highly flexible and suitable for development, testing, and cloud environments. It is open-source and free to use, with strong community support.
 
-- **Type 2 Hypervisors (e.g., VirtualBox, VMware Workstation)**: These hypervisors run on various host operating systems (Windows, macOS, Linux) and provide user-friendly GUIs for VM management. They are suitable for personal use, development, testing, and 
+x) and provide user-friendly GUIs for VM management. They are suitable for personal use, development, testing, and 
 
