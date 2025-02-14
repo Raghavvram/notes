@@ -1,5 +1,4 @@
 
-
 ### What is KVM?
 KVM (Kernel-based Virtual Machine) is a virtualization technology built into the Linux kernel. It allows you to turn your Linux machine into a hypervisor, a piece of software that lets you run multiple virtual machines (VMs) simultaneously on a single physical machine.
 
@@ -88,10 +87,3 @@ Intel VT-x and AMD-V are hardware virtualization extensions that provide support
 | **Cost**                    | Open-source and free to use       | Often commercial with free options for non-commercial use |
 | **Integration with Tools**  | Integrates well with other Linux tools and services | May require additional software for integration         |
 | **Hardware Requirements**   | Requires hardware virtualization extensions (Intel VT-x, AMD-V) | Requires hardware virtualization extensions (Intel VT-x, AMD-V) |
-
-
-
-
-
-
-
