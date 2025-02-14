@@ -71,6 +71,8 @@ Intel VT-x and AMD-V are hardware virtualization extensions that provide support
 
 ---
 
+## KVM vs Type 2 Hypervisors
+
 | Feature                     | KVM (Kernel-based Virtual Machine) | Type 2 Hypervisors (e.g., VirtualBox, VMware Workstation) |
 |-----------------------------|-----------------------------------|---------------------------------------------------------|
 | **Type**                    | Type 2 (Hosted)                   | Type 2 (Hosted)                                         |
