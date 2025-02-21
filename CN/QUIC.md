@@ -56,5 +56,4 @@ QUIC serves as the transport layer for HTTP/3, the latest version of the Hyperte
 
 In summary, QUIC improves web performance by reducing latency through efficient handshakes, supporting multiplexed streams without head-of-line blocking, ensuring built-in security with TLS integration, and providing robust error handling—all while leveraging UDP's lightweight nature. This makes it particularly well-suited for modern web applications that demand speed and reliability.
 
----
 
