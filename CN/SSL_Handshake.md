@@ -1,7 +1,4 @@
 
-
----
-
 # SSL/TLS Handshake
 
 The SSL/TLS handshake is a series of steps that establish a secure, encrypted communication channel between a client (such as a browser) and a server. It involves authentication, agreement on encryption standards, and the exchange of keys to enable secure data transfer. This process ensures that information is protected from interception or alteration by third parties.
