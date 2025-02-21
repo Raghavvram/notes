@@ -26,4 +26,3 @@ The specific steps and methods used during the handshake can vary depending on t
 
 ---
 
-Let me know if you need any further adjustments!
