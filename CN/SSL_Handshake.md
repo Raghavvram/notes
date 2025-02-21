@@ -23,6 +23,3 @@ Here's a detailed breakdown of the SSL/TLS handshake process:
 6. **Secure Communication:** Once the handshake is complete, the client and server can communicate securely using the established session keys. All data transmitted between them is encrypted, ensuring confidentiality and integrity.
 
 The specific steps and methods used during the handshake can vary depending on the cipher suites supported by both parties and the key exchange method employed. The SSL/TLS handshake is a critical process that occurs quickly, often before a user even accesses a website, to establish a secure HTTPS connection.
-
----
-
