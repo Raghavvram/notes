@@ -1,4 +1,4 @@
-Got it! Here's a clean version of the document without unnecessary citations in markdown format:
+
 
 ---
 
