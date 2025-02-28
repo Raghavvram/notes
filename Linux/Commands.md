@@ -1,5 +1,3 @@
-Absolutely, here's a comprehensive list combining both the commonly known and lesser-known commands, along with their explanations:
-
 ### **Network Scanning and Analysis**
 1. **arp-scan**: Uses ARP packets to identify devices on your local network.
 2. **netdiscover**: Maps out active hosts within your subnet.
