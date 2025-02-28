@@ -142,5 +142,3 @@
 ### **Exploring Vulnerabilities**
 1. **SQLmap**: Probes databases for vulnerabilities.
 2. **dirb**: Discovers hidden directories and files.
-
-Feel free to ask for more details about any of these commands or tools!
