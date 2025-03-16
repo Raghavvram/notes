@@ -1,5 +1,4 @@
-Temporal and spatial locality are key concepts in computer architecture, particularly in understanding how memory caches and TLBs (Translation Lookaside Buffers) improve system performance. Let me break them down for you:
-
+Temporal and spatial locality are key concepts in computer architecture, particularly in understanding how memory caches and TLBs (Translation Lookaside Buffers) improve system performance.
 ### **1. Temporal Locality**
 - **Definition**: Temporal locality refers to the tendency for a program to access the same memory location repeatedly within a short period of time.
 - **Example**: If a variable or instruction is accessed, it is likely to be accessed again soon. For instance, loops in code often exhibit temporal locality because the same instructions are executed repeatedly.
