@@ -15,4 +15,4 @@ Both types of locality are essential for the efficient functioning of caches and
 - **Temporal locality** ensures that frequently reused data remains in the cache.
 - **Spatial locality** ensures that related data likely to be used together is preloaded, minimizing the need to fetch data from slower main memory.
 
-These principles are integral to designing optimized memory hierarchies and improving the overall performance of systems. Let me know if you'd like to explore how caches or TLBs specifically implement these concepts!
+These principles are integral to designing optimized memory hierarchies and improving the overall performance of systems. 
