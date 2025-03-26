@@ -1,4 +1,4 @@
-Alright, let’s dive into the complete walkthrough of how a modern computer system works under the hood when performing tasks like opening a browser, switching to a text editor, typing, and returning to the browser to watch a YouTube video. This explanation will cover the roles of the CPU, memory, process management, and input/output (I/O) in great detail.
+# The complete walkthrough of how a modern computer system works under the hood when performing tasks like opening a browser, switching to a text editor, typing, and returning to the browser to watch a YouTube video. This explanation will cover the roles of the CPU, memory, process management, and input/output (I/O) in great detail.
 
 ---
 
