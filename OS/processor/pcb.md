@@ -78,4 +78,23 @@ The PCB is indispensable for process management in an operating system. It serve
 - **A facilitator:** It ensures seamless multitasking and communication between processes.
 - **A protector:** It helps isolate processes and preserve their data during execution.
 
-Let me know if you’d like to explore related concepts like scheduling algorithms or memory management next!
+---
+
+The **Process Control Block (PCB)** is stored in a region of memory that is **reserved by the operating system**. Typically, PCBs are stored in a **process table**, which is a collection of PCBs maintained by the OS.
+
+### **Location in Memory:**
+- The exact location of the process table and PCBs depends on the design of the operating system.
+- It could be stored in the **kernel space**, a protected area of memory that is inaccessible to regular user programs. This ensures that the PCB cannot be accidentally modified or corrupted by processes.
+
+### **Details About Storage:**
+1. **Process Table:**
+   - The OS maintains a centralized table where each entry corresponds to a process.
+   - The entry for each process contains its PCB.
+
+2. **Protected Area:**
+   - Since the PCB contains sensitive information required for process management (e.g., priority, scheduling information, memory maps), it is usually stored in memory locations that are protected from regular user applications.
+
+3. **In-Use State:**
+   - During execution, parts of the PCB may be loaded into **registers** or **CPU memory** (e.g., the program counter or process state). Once the process is switched out, the current state is saved back into the PCB.
+
+Let me know if you'd like further elaboration on how the OS accesses and modifies PCBs!
