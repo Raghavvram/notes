@@ -1,7 +1,5 @@
 A **Process Control Block (PCB)** is a data structure used by an operating system to store all information about a process. The PCB plays a crucial role in process management, as it enables the OS to keep track of each process and effectively switch between processes during multitasking.
 
-Let’s dive into the details:
-
 ---
 
 ### **1. Structure and Role of the PCB**
