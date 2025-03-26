@@ -120,4 +120,4 @@ This entire sequence involves:
 - **Operating System:** Manages processes, memory, and I/O to ensure seamless multitasking and resource allocation.
 - **Applications (Browser and Text Editor):** High-level interfaces that users interact with, powered by the underlying system.
 
-Let me know if you'd like to delve deeper into any specific component or process!
+
