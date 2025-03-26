@@ -1,5 +1,3 @@
-Sure! Let me break this down step by step with detailed explanations:
-
 ### **1. Program**
 - A **program** is essentially a sequence of instructions written in a programming language, like Python, Java, or C++.
 - These instructions dictate what tasks the program performs. For instance, programs like Google Chrome or Microsoft Word are sets of instructions that enable specific functionalities—browsing or word processing.
