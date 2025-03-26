@@ -98,5 +98,3 @@ The **Process Control Block (PCB)** is stored in a region of memory that is **re
 
 3. **In-Use State:**
    - During execution, parts of the PCB may be loaded into **registers** or **CPU memory** (e.g., the program counter or process state). Once the process is switched out, the current state is saved back into the PCB.
-
-Let me know if you'd like further elaboration on how the OS accesses and modifies PCBs!
