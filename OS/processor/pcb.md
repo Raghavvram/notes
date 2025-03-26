@@ -80,6 +80,8 @@ The PCB is indispensable for process management in an operating system. It serve
 
 ---
 
+## Where is the PCB stored ??
+
 The **Process Control Block (PCB)** is stored in a region of memory that is **reserved by the operating system**. Typically, PCBs are stored in a **process table**, which is a collection of PCBs maintained by the OS.
 
 ### **Location in Memory:**
