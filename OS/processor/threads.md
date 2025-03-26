@@ -62,5 +62,3 @@ Advantages and Risks of Threads:
 - A **program** is a set of instructions written in a programming language.
 - A **process** is a running instance of a program with its allocated memory and resources.
 - A **thread** is an execution unit within a process, enabling multitasking and efficient communication.
-
-I hope this detailed explanation clears things up! Let me know if you'd like to dive deeper into any specific part or need examples related to your interests, like threading in backend systems or handling processes in Linux.
