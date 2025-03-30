@@ -1,5 +1,3 @@
-Sure, let's dive into a detailed breakdown of each type of flood attack, the commands used to perform them, and the Wireshark filters to capture the traffic.
-
 ### 1. SYN Flood
 **Description:**
 A SYN flood attack exploits the TCP handshake process. The attacker sends a succession of SYN requests to a target's system, but never completes the handshake by sending the final ACK. This consumes server resources, making it unresponsive to legitimate traffic.
