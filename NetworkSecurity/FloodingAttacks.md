@@ -187,4 +187,3 @@ icmp
 ```
 This filter captures all ICMP packets.
 
-Would you like me to explain or break down any of the commands or filters further?
