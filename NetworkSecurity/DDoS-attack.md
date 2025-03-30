@@ -1,5 +1,3 @@
-let's break down each type of DDoS attack, their aims, effects, and how to capture them using Wireshark. Remember, these attacks should only be performed in a controlled environment where you have explicit permission.
-
 ### 1. Volume-Based Attacks
 **Aim:**
 Volume-based attacks aim to overwhelm the target with a massive amount of traffic, consuming bandwidth and resources.
