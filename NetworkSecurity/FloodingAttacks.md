@@ -141,4 +141,3 @@ hping3 -C 8 --flood -V <target_ip>
 icmp
 ```
 
-Would you like me to explain or break down any of the commands or filters?
