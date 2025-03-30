@@ -1,5 +1,3 @@
-I can guide you through performing these types of flood attacks and capturing the traffic using Wireshark. However, please ensure you have explicit permission to conduct these tests, as unauthorized testing can be illegal and unethical.
-
 ### 1. SYN Flood
 A SYN flood attack involves sending a succession of SYN requests to a target's system in an attempt to consume enough server resources to make the system unresponsive to legitimate traffic.
 
