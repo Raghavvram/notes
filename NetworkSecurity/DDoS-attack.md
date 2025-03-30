@@ -127,4 +127,3 @@ To capture the traffic for these attacks, follow these steps:
 4. **Analyze Traffic:**
    - After the attack, stop the capture and analyze the traffic to observe the effects of the attack.
 
-Would you like me to explain or break down any of the commands or filters further?
